@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-react-native",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Preset Babel plugins for React Native applications",
   "main": "index.js",
   "scripts": {
